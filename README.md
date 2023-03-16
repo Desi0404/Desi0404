@@ -11,10 +11,8 @@
   </a>
 </div>
 
-> Here is some information about me!
-```yaml
-Hello! My name is desi and I'm 17 years old I hardly use github but decided to give you an intro anyways!
-```
+**Hello there! Information is below <3**
+
 <details><summary>About me</summary>
 <p>
 
