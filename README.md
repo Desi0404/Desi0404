@@ -28,6 +28,8 @@
 | DoB | 30/05/2005 |
 | Discord | Desi#0404 |
 
-f you have any more questions then just [Ask me questions](https://tellonym.me/desi_0404)
+If you have any more questions then just [Ask me questions](https://tellonym.me/desi_0404)
 </p>
 </details>
+
+## Do you have a suggestion? A way I can make this better? A bug to report? Then simply [click here](https://github.com/Desi0404/Desi0404/issues) and tell me!
