@@ -1,16 +1,35 @@
-### Hi there 👋
+### Desi#0404
 
-<!--
-**Desi0404/Desi0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://cdn.discordapp.com/guilds/943546133140099073/users/875659010207014972/avatars/a_b02c10379e7fbf343d76272d38512b8c.gif" width="100"/>
+<div id="badges">
+  <a href="https://discord.gg/GyYuYjzf7u">
+    <img src="https://img.shields.io/badge/Discord-blueviolet?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCs8Ae8B5EqO_N_37CD8QQNQ/videos">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+> Here is some information about me!
+```yaml
+Hello! My name is desi and I'm 17 years old I hardly use github but decided to give you an intro anyways!
+```
+<details><summary>About me</summary>
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Questions/answers
+
+| Questions | Answers |
+| --- | --- |
+| Name | Desi |
+| Age | 17 |
+| Gender | Male |
+|Pronouns | He/Him |
+| Sexuality | Bisexual |
+| DoB | 30/05/2005 |
+| Discord | Desi#0404 |
+
+f you have any more questions then just [Ask me questions](https://tellonym.me/desi_0404)
+</p>
+</details>
