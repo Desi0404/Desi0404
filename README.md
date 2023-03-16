@@ -1,7 +1,7 @@
 ### Desi#0404
 
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/guilds/943546133140099073/users/875659010207014972/avatars/a_b02c10379e7fbf343d76272d38512b8c.gif" width="100"/>
+  <img src="https://cdn.discordapp.com/guilds/943546133140099073/users/875659010207014972/avatars/a_b02c10379e7fbf343d76272d38512b8c.png" width="100"/>
 <div id="badges">
   <a href="https://discord.gg/GyYuYjzf7u">
     <img src="https://img.shields.io/badge/Discord-blueviolet?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
