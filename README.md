@@ -27,12 +27,14 @@
 | Sexuality | Bisexual |
 | DoB | 30/05/2005 |
 | Discord | Desi#0404 |
+| Likes | Sleep, food, coffee, friends, walks at night and conversations |
+| Dislikes | Bright lights, loud noises, Toxicity, being ghosted, oversleeping |
 
-If you have any more questions then just [Ask me questions](https://tellonym.me/desi_0404)
+If you have any more questions then just [ask me questions](https://tellonym.me/desi_0404)
 </p>
 </details>
 
-## Do you have a suggestion? A way I can make this better? A bug to report? Then simply [click here](https://github.com/Desi0404/Desi0404/issues) and tell me!
+## Do you have a suggestion? A way I can make this look better? A bug to report? Then simply [click here](https://github.com/Desi0404/Desi0404/issues) and tell me!
 
 
 
