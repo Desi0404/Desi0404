@@ -1,4 +1,4 @@
-### My about me! <3
+## My about me! <3
 
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/guilds/943546133140099073/users/875659010207014972/avatars/a_b02c10379e7fbf343d76272d38512b8c.png" width="100"/>
@@ -11,12 +11,10 @@
   </a>
 </div>
 
-**Hello there! Information is below <3**
+**Hello there! Information is below**
 
 <details><summary>About me</summary>
 <p>
-
-#### Questions/answers
 
 | Questions | Answers |
 | --- | --- |
@@ -34,8 +32,6 @@ If you have any more questions then just [ask me questions](https://tellonym.me/
 </p>
 </details>
 
-## Do you have a suggestion? A way I can make this look better? A bug to report? Then simply [click here](https://github.com/Desi0404/Desi0404/issues) and tell me!
+ #### Do you have a suggestion? A way I can make this look better? A bug to report? Then simply [click here](https://github.com/Desi0404/Desi0404/issues) and tell me!
 
-
-
-### This is a test branch and is only used when testing features
+###### This is a test branch and is only used when testing features
